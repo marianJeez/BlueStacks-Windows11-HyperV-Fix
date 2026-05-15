@@ -12,11 +12,13 @@ The script disables some security settings, which can lead to unexpected errors,
 1. Unzip all files on C:\ folder
 2. Start .bat file and wait end
 3. Reboot ur system and click F3 to accept disabling security options
-# Debuff of this technology
+# IMPORTANT — Debuff of this technology
 When turning off functions VBS and Credential Guard you are taking a risk for: 
 
 • Problems with applications that require VBS (for example, FACEIT Anti-cheat) 
 
 • Security issues and vulnerabilities of your system due to the disabling of security functions (including core isolation) 
 
-• Possible unexpected errors depending only on your system
+• Possible unexpected errors depending only on your system 
+
+If none of these three points have caused you any concern and it is extremely important for you to have working virtualization on your system, then enjoy using it!
