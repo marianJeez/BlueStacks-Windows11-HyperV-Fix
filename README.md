@@ -16,5 +16,7 @@ The script disables some security settings, which can lead to unexpected errors,
 When turning off functions VBS and Credential Guard you are taking a risk for: 
 
 • Problems with applications that require VBS (for example, FACEIT Anti-cheat) 
+
 • Security issues and vulnerabilities of your system due to the disabling of security functions (including core isolation) 
+
 • Possible unexpected errors depending only on your system
