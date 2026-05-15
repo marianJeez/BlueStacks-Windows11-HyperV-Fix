@@ -7,7 +7,7 @@ A simple automated script to disable "Core Isolation" and "Hyper-V" for Windows 
 
 • 26H1 (Stable, Dev)
 
-The script disables some security settings, which can lead to unexpected errors, system crashes, and BSoD. The script has not been tested on different systems, and I am not responsible for any affects that may occur on your system. Use at your own risk, i warned you.
+The script disables some security settings (VBS and Credential Guard), which can lead to unexpected errors, system crashes, and BSoD. The script has not been tested on different systems, and I am not responsible for any affects that may occur on your system. Use at your own risk, i warned you.
 # Guideline 
 1. Unzip all files on C:\ folder
 2. Start .bat file and wait end
